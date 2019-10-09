@@ -1,0 +1,102 @@
+#oldal{
+	width: 1920px;
+	background-color: grey;
+	margin: 0px auto;
+}
+
+
+#fejresz{
+	width: 1920px;
+	height: 80px;
+	background-color: red;
+	margin: 0px auto;
+	text-align: center;
+}
+
+#fejresz2{
+	height: 60px;
+	background-color: red;
+	margin: 10px;
+	margin-left: 500px
+	
+}
+
+#kapcsolat{
+	background-color: white;
+	width: 960px;
+	margin: 50px auto;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.kep {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+}
+
+#tartalom{
+	background-color: white;
+	width: 960px;
+	height: 350px;
+	margin: 50px auto;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+#tartalom2{
+	background-color: white;
+	width: 960px;
+	margin: 50px auto;
+	font-size: 110%;
+	border-radius: 5px;
+
+}
+
+.menupont{
+	background-color: red;
+	color: white;
+	margin-top: 30px;
+	height: 40px;
+	width: 200px;
+	float: left;  
+	text-align: center;
+	font-size: 120%;
+				
+}
+
+a:link {
+	color: grey;
+  	text-decoration: none;
+}
+
+a:visited {
+	color: grey;
+  	text-decoration: none;
+}
+
+p {
+	margin-left: 90px;
+	margin-right: 50px;
+
+}
+
+h1 {
+	margin: 50px;
+	align-items: center;
+
+}
+
+h2 {
+	margin: 50px;
+	margin-bottom: 5px;
+	align-items: center;
+
+}
+
+img {
+	margin: 50px;
+	
+}
+
