@@ -8,14 +8,14 @@
 #fejresz{
 	width: 1920px;
 	height: 80px;
-	background-color: #185886;
+	background-color: blue;
 	margin: 0px auto;
 	text-align: center;
 }
 
 #fejresz2{
 	height: 60px;
-	background-color: red;
+	background-color: blue;
 	margin: 10px;
 	margin-left: 500px
 	
